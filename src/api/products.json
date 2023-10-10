@@ -1,0 +1,68 @@
+[
+  {
+    "id": 10,
+    "name": "Pizza slice",
+    "icon": "fas fa-pizza-slice",
+    "description": "Delicious mozzarella pizza slice"
+  },
+  {
+    "id": 20,
+    "name": "Ice cream",
+    "icon": "fas fa-ice-cream",
+    "description": "Ben & Jerry's Yes Pecan!"
+  },
+  {
+    "id": 30,
+    "name": "Cheese",
+    "icon": "fas fa-cheese",
+    "description": "Cheddar cheese"
+  },
+  {
+    "id": 40,
+    "name": "Bacon",
+    "icon": "fas fa-bacon",
+    "description": "Fried bacon with eggs"
+  },
+  {
+    "id": 50,
+    "name": "Fish",
+    "icon": "fas fa-fish",
+    "description": "Australian sea bass"
+  },
+  {
+    "id": 60,
+    "name": "Apple",
+    "icon": "fas fa-apple-alt",
+    "description": "Granny smith apples from Spain"
+  },
+  {
+    "id": 70,
+    "name": "Lemon",
+    "icon": "fas fa-lemon",
+    "description": "Lemons from Italy"
+  },
+  {
+    "id": 80,
+    "name": "Hot pepper",
+    "icon": "fas fa-pepper-hot",
+    "description": "Hot chilis from Mexico"
+  },
+  {
+    "id": 90,
+    "name": "Cookie",
+    "icon": "fas fa-cookie",
+    "description": "Chocolate brownie with vanilla sauce"
+  },
+  {
+    "id": 100,
+    "name": "iPhone",
+    "icon": "fa-solid fa-mobile-screen-button",
+    "description": "iPhone 14 Max Pro"
+  },
+  {
+    "id": 110,
+    "name": "Hotdog",
+    "icon": "fa-solid fa-hotdog",
+    "description": "Hot-dog with some delicious chorizo"
+  }
+]
