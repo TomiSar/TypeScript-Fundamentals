@@ -1,7 +1,5 @@
 # TypeScript Fundamentals
 
-Code samples from the TypeScript Fundamentals course on [Pluralsight.com](https://pluralsight.com). Samples for each module from the course can be found in the `src` directory.
-
 ## Module1 Course Overview
 
 - Course Overview
