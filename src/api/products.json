@@ -64,5 +64,11 @@
     "name": "Hotdog",
     "icon": "fa-solid fa-hotdog",
     "description": "Hot-dog with some delicious chorizo"
+  },
+  {
+    "id": 120,
+    "name": "Burger",
+    "icon": "fa-solid fa-burger",
+    "description": "Burger with some delicious cheese"
   }
 ]
